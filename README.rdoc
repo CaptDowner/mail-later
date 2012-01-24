@@ -1,6 +1,6 @@
 = mail-later
 
-Description goes here.
+Under development: Ruby program, based on Mikel Lindsaar's mail gem, to create and schedule email to be sent after a future date and time.
 
 == Contributing to mail-later
  
